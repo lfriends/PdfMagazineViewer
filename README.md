@@ -20,8 +20,3 @@ Example:
 ## Project Status
 This project is still in its initial setup phase.
 There is no consolidated source code committed yet.
-
-
-![PdfMagazineViewer Overview](doc/assets/infographic.jpg)
-
-
